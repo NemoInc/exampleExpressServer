@@ -18,5 +18,8 @@
 		"express",
 		"api"
 	],
-	"license": "MIT"
+	"license": "MIT",
+	"devDependencies": {
+		"cors": "^2.8.4"
+	}
 }
